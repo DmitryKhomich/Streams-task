@@ -19,6 +19,7 @@ public class Task03 {
         map.put("Wed", 13);
         map.put("Thu", 9);
         map.put("Fri", 8);
+        map.put("Sat", 14);
         return map;
     }
 
